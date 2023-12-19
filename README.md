@@ -1,7 +1,7 @@
 # Cookie consent wrapper app
 
 This is a utility built on top of react-cookie-consent. This will allow creation of a customized cookie wrapper
-that can be used in webpage.
+that can be used in webpage. Backend service created with GraphQL to manage consent information.
 
 ## Available Scripts
 
